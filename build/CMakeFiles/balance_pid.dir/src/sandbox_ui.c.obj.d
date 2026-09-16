@@ -1,0 +1,21 @@
+CMakeFiles/balance_pid.dir/src/sandbox_ui.c.obj: \
+ E:/Dev/C/pid_experiment/src/sandbox_ui.c \
+ E:/Dev/C/pid_experiment/include/pidlab/sandbox_ui.h \
+ E:/Dev/C/pid_experiment/include/pidlab/sandbox_app.h \
+ E:/raylib/w64devkit/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
+ E:/Dev/C/pid_experiment/include/pidlab/control_use_cases.h \
+ E:/Dev/C/pid_experiment/include/pidlab/pid_controller.h \
+ E:/Dev/C/pid_experiment/include/pidlab/pendulum_model.h \
+ E:/raylib/w64devkit/x86_64-w64-mingw32/include/math.h \
+ E:/raylib/w64devkit/x86_64-w64-mingw32/include/crtdefs.h \
+ E:/raylib/w64devkit/x86_64-w64-mingw32/include/corecrt.h \
+ E:/raylib/w64devkit/x86_64-w64-mingw32/include/_mingw.h \
+ E:/raylib/w64devkit/x86_64-w64-mingw32/include/_mingw_mac.h \
+ E:/raylib/w64devkit/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ E:/raylib/w64devkit/x86_64-w64-mingw32/include/vadefs.h \
+ E:/raylib/w64devkit/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ E:/raylib/w64devkit/external/include/raylib.h \
+ E:/raylib/w64devkit/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
+ E:/raylib/w64devkit/x86_64-w64-mingw32/include/stdarg.h \
+ E:/raylib/w64devkit/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+ E:/Dev/C/pid_experiment/include/pidlab/common.h
